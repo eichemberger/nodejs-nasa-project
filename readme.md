@@ -6,21 +6,21 @@
 * Node 
 * MongoDB
 
-Getting started
+### Getting started
 
 Configure a mongodb connection at .env file in server/src
 
-Commands
+### Commands
 ```
 npm run install
 ```
 
-To see the project
+### To see the project
 ```
 npm run watch
 ```
 
-Deploy:
+### Deploy:
 ```
 npm run deploy
 ```
